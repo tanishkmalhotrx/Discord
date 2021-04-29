@@ -93,8 +93,3 @@ async def on_message(message):
 
 keep_alive()
 client.run(os.getenv('token'))
-
-#.env\token - token = ***
-#https://Bot20.tanishkmalhotrx.repl.co
-#"discord_bot.py / keep_alive.py / token"
-#invite_bot = https://discord.com/oauth2/authorize?client_id=818390694469042176&permissions=2148006976&scope=bot

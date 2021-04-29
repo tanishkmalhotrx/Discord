@@ -217,4 +217,4 @@ async def stop(ctx):
 #-------------------------------------------------------------------------------------------
 #-------------------------------------------------------------------------------------------
 #keep_alive()
-client.run('ODM1MDA5MjA4MDU4NTExNDAw.YIJM7A.6dTJEE_Zhl-3hi2lZ21SFmsUXcg')
+client.run('Enter your bot token')
